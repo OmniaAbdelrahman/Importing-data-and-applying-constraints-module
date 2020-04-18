@@ -1,0 +1,13 @@
+id*name*salary
+1*ahmed*1000
+2*ali*1500
+3*mohamed*2000
+4*abdelmoniem*3000
+ *essam*4000
+ * *5000
+5*ahmed*4000
+6* *1700
+7*soliman*8000
+8*mostafa* 
+ * * *
+9*Tarek*2000

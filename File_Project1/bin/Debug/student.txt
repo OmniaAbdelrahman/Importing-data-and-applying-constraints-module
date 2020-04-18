@@ -1,0 +1,13 @@
+id*name*grade
+1*ahmed*A
+2*ali*B
+3*mohamed*C
+4*abdelmoniem*E
+*essam*D
+**A
+5*ahmed*F
+6**B
+7*soliman*D
+8*mostafa*C
+***
+
